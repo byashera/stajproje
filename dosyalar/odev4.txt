@@ -1,0 +1,27 @@
+Standart
+
+Cpu: AMD Ryzen 3 5300G
+Board:Gigabyte A520M-K AM4
+Ram: 8gb
+Gpu: Rx Vega 6
+Psu: 450w
+SSD: 256gb SSD
+
+Oyun
+
+Cpu: AMD Ryzen 5 7600x
+Board:GIGABYTE A620M
+Ram: 16gb+
+Gpu: Rtx 3060
+Psu: 650w
+SSD: 500gb
+HDD: 1tb
+
+Server
+
+Cpu: Intel® Xeon® Silver 4316 Processor
+Board: Gigabyte MU92-TU0
+Ram: 64gb
+Gpu: 2gb
+Psu: 1000w
+HDD: 6tb
