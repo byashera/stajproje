@@ -1,0 +1,31 @@
+1. Python:
+   - Basit ve anlaşılır sözdizimi sayesinde hızlı geliştirme
+   - Geniş kütüphane desteği, veri analizi, yapay zeka, web geliştirme gibi çeşitli alanlarda kullanım
+   - Taşınabilirlik, çeşitli platformlarda çalışabilme
+   - Yüksek seviyeli, nesne yönelimli ve yorumlanan bir dil olması
+
+2. JavaScript:
+   - Web tarayıcılarında çalışan, dinamik ve etkileşimli web siteleri ve uygulamalar için ideal
+   - Node.js ile sunucu tarafında kullanılabilme
+   - Geniş kütüphane desteği (ör. React, Angular gibi)
+   - Hızlı geliştirme, modern web teknolojilerine uygunluk
+
+3. Java:
+   - Platform bağımsız bir dil, "write once, run anywhere" prensibi
+   - Nesne yönelimli programlama desteği
+   - Büyük ölçekli uygulamalara ve kurumsal projelere uygun
+   - Güçlü topluluk desteği ve zengin kütüphane setleri
+
+4. C++:
+   - Hızlı ve verimli performans, sistem düzeyinde programlama
+   - Nesne yönelimli ve prosedürel programlama desteği
+   - Oyun geliştirme, yazılım altyapıları ve sürücü yazılımı gibi alanlarda tercih edilir
+   - Düşük seviye kontrol sağlayan, C dilinden miras alınan özellikler
+
+5. C# (C Sharp):
+   - Microsoft tarafından geliştirilen, .NET platformu üzerinde çalışan nesne yönelimli bir dil
+   - Oyun geliştirme (Unity), masaüstü uygulamaları ve web projeleri için kullanılır
+   - Güçlü kütüphane desteği ve modern programlama özellikleri (async-await gibi)
+   - Geniş topluluk ve Microsoftun sürekli geliştirmesi sayesinde popüler
+
+Popülerlik, yazılım dünyasında hızla değişebilir bu nedenle daha güncel veriler için güvenilir kaynakları takip etmek önemlidir.
